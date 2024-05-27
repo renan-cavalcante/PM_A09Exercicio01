@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cadastros de Atetlas</string>
+    <string name="atetla">Atetla</string>
+    <string name="atetlaJunior">Atetla Junior</string>
+    <string name="atetlaSenior">Atetla Senior</string>
+    <string name="record">Record em segundos</string>
+    <string name="academia">Academia</string>
+    <string name="cardiaco">Tem problemas cardíacos</string>
+    <string name="anosPatrica">Anos de patrica</string>
+    <string name="nome">Nome</string>
+    <string name="dataNasc">Data de Nascimento</string>
+    <string name="bairro">Bairro</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
